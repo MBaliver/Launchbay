@@ -1,0 +1,66 @@
+:root {
+  var-MainColor: #1d1619;
+  --main-color: #1d1619;
+  --second-color: #000000;
+  --cyan-color: #9aedfe;
+  --blue-color: #57c7ff;
+  --green-color: #ffffff;
+  --pink-color: #ff6ac1;
+  --red-color: #ff5c57;
+  --white-color: white;
+}
+
+
+html, body {
+  background: var(--main-color);
+  color: var(--white-color);
+}
+
+#header, .linksbox {
+  background: var(--second-color);
+  border-left: none;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
+
+.cyan {
+  color: var(--cyan-color);
+}
+
+.blue {
+  color: var(--blue-color);
+}
+
+.green, .linksbox a:hover::before {
+  color: var(--green-color);
+}
+
+.pink {
+  color: var(--pink-color);
+}
+
+.red {
+  color: var(--red-color);
+}
+
+input {
+  color: var(--white-color);
+}
+
+.linksbox a:hover {
+  border-left: 5px solid var(--green-color);
+  padding-left: 10px;
+  background: #ffffff22;
+}
+
+#image img:hover, #header:hover, #links .linksbox:hover {
+  border: 1px solid var(--red-color);
+}
+
+#image img, #header, #links .linksbox {
+  border: 1px solid #00000000;
+}
+
+a.red:before {
+  animation: none;
+}

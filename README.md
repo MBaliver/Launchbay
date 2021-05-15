@@ -1,21 +1,11 @@
 # Start-Page
-Just a quick edit of Jarvvski [Start-Page](https://github.com/Jarvvski/Start-Page).
+I just edit a startpage with my custom theme.
 
-![default](https://raw.githubusercontent.com/francesco-puppo/start-page/master/screenshots/start-page-01.PNG)
+Origginal startpage of Jarvvski [https://github.com/Jarvvski/Start-Page](https://github.com/Jarvvski/Start-Page).
 
 # Changes
-- Tweaked design and colours a little bit
-- Fully responsive
-- Click on the three dots on the bottom right to switch colour palette
-
-## Styles
-![default](https://raw.githubusercontent.com/francesco-puppo/start-page/master/screenshots/start-page-01.PNG)
-
-![hacker](https://raw.githubusercontent.com/francesco-puppo/start-page/master/screenshots/start-page-02.PNG)
-
-![elegant](https://raw.githubusercontent.com/francesco-puppo/start-page/master/screenshots/start-page-03.PNG)
-
-![default-mobile](https://raw.githubusercontent.com/francesco-puppo/start-page/master/screenshots/start-page-01-mobile.PNG)
+1. New Themes and look
+2. add banner image
 
 # Usage
 1. Edit the HTML file and add your own custom links
@@ -23,5 +13,3 @@ Just a quick edit of Jarvvski [Start-Page](https://github.com/Jarvvski/Start-Pag
 
 Check [/r/startpages](https://www.reddit.com/r/startpages/) to find out how to use it with your specific browser.
 
-# Issues
-The custom colours will be resetted once you reload the page, hence they are pretty useless
