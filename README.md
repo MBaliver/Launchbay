@@ -1,7 +1,7 @@
 # Start-Page
 I just edit a startpage with my custom theme.
 
-Origginal startpage of Jarvvski [https://github.com/Jarvvski/Start-Page](https://github.com/Jarvvski/Start-Page).
+Origginal startpage of francesco-puppo [https://github.com/francesco-puppo/start-page](https://github.com/francesco-puppo/start-page).
 
 # Changes
 1. New Themes and look
