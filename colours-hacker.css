@@ -64,3 +64,7 @@ input {
 a.red:before {
   animation: none;
 }
+
+.spacer {
+  color: var(--red-color);
+}

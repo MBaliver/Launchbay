@@ -50,7 +50,7 @@ input {
 .linksbox a:hover {
   border-left: 5px solid var(--green-color);
   padding-left: 10px;
-  background: #ffffff22;
+  background: #ffffff11;
 }
 
 #image img:hover, #header:hover, #links .linksbox:hover {
@@ -63,4 +63,8 @@ input {
 
 a.red:before {
   animation: none;
+}
+
+.spacer {
+  color: var(--red-color);
 }
