@@ -18,4 +18,9 @@ function loadjscssfile(filename, filetype){
 
 loadjscssfile("myscript.js", "js") //dynamically load and add this .js file
 loadjscssfile("javascript.php", "js") //dynamically load "javascript.php" as a JavaScript file
-loadjscssfile("colours-default.css", "css") ////dynamically load and add this .css file
+if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches){
+  loadjscssfile("colours-default.css", "css")
+}
+else {
+  loadjscssfile("colours-elegant.css", "css") ////dynamically load and add this .css file
+}
