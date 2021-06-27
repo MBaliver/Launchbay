@@ -1,11 +1,11 @@
 :root {
-  var-MainColor: #2E3440;
-  --main-color: #2E3440;
+  var-MainColor: #3B4252;
+  --main-color: #3B4252;
   --second-color: #000000;
   --cyan-color: #9aedfe;
-  --blue-color: #57c7ff;
-  --green-color: #ffffff;
-  --pink-color: #ff6ac1;
+  --blue-color: #5E81AC;
+  --green-color: #2E3440;
+  --pink-color: #B48EAD;
   --red-color: #5E81AC;
   --white-color: white;
 }
